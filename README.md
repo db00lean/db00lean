@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @db00lean
+- 👋 Hi, I’m David Boullie (@db00lean)
 - 👀 I’m interested in embedded devices in medical devices and consumer electronics
 - 🌱 I’m currently studying undergraduate Computer Engineering at Northeastern University
 - 💼 I’m looking for positions currently!
