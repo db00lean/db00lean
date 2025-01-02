@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Boullie (@db00lean)
-- 👀 I’m interested in embedded devices in medical devices and consumer electronics
-- 🌱 I’m currently studying undergraduate Computer Engineering at Northeastern University
-- 💼 I’m looking for positions currently!
-- 📫 I am reachable via email, view the raw of this markdown to find it.
+- 👀 I’m interested in Embedded Devices in the IoT and Medical field.
+- 💼 I’m currently an working as an Software Engineer on the 15.4 Team at Silicon Labs!
+- 📫 I am reachable via email or phone, view the raw of this markdown to find it.
 
 [dboolean.personal@gmail.com]: # 
+[617-435-7863]: # 
